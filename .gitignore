@@ -7,8 +7,6 @@ node_modules/
 
 yarn.lock
 
-src/components/common/a.vue
-
 package-lock.json
 
 *.log
