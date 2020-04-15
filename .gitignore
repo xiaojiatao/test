@@ -1,0 +1,16 @@
+.DS_Store
+
+node_modules/
+
+.idea/
+
+
+yarn.lock
+
+src/components/common/a.vue
+
+package-lock.json
+
+*.log
+
+*.bak
